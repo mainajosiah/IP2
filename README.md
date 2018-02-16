@@ -1,14 +1,24 @@
-# Independent Project
 
-## Instructions
-  1) Please clone the Moringa School **mpft1-ip** repo to your computer.
-
-  2) Create a repo on your profile, and copy the files from **mpft1-ip** to your new repo.
-  
-  3) Fix up the folder structure.`
-
-  4) Fill in the form under the IP submission <!--(http://moringaprep-ft.herokuapp.com/#10.html)--> heading in the LMS
-
-  5) Complete the independent project.
-  
-  6) Push your commits up to your repo.
+# Annita's Restaraunt project
+#### This is a Restaraunt website ,16/2/2017
+#### By **Maina Josiah**
+## Description
+This is my second Moringa School Independent Project on fulltime Prep.
+## Setup/Installation Requirements
+* A web browser
+* A picture editor
+To run this project ,You just need to go to the index.html file and run it on the browser
+## Known Bugs
+Currently no bugs found
+## Technologies Used
+bootstrap
+CSS
+Js
+HTML
+Jquery
+## Support and contact details
+Email:mainajosiah95@gmail.com
+Phone:0706643731
+### License
+*ITs free to public
+Copyright mainajosiah(c) {2017} **{alfartech Ltd}**
