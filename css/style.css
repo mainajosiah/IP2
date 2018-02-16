@@ -1,0 +1,12 @@
+.navbar-bar ul li{
+display:inline;
+float:right;
+margin-left: 2%;
+}
+.one{
+  background-image:url("/home/josiah/Documents/IP2/images/landing.jpg");
+}
+#party{
+  background-color: #e04b0b;
+
+}
